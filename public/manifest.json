@@ -1,0 +1,21 @@
+{
+  "short_name": "MacroCalc",
+  "name": "Macro & Calorie Calculator",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#007bff",
+  "description": "Calculate your daily calories and macros, track your progress, and more!"
+}
